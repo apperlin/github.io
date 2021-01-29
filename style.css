@@ -1,0 +1,18 @@
+#myheader{
+	color:red;
+}
+
+.mybodytext{
+	color:blue;
+}
+
+.larger{
+	margin: auto;
+}
+
+.med{
+	float: left;
+}
+.small{
+	float: left;
+}
